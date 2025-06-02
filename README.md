@@ -54,3 +54,27 @@ Please refer to the original dataset source and license for usage terms.
 
 3. GPU is recommended for faster training.
 
+## 📜 Code License
+
+The code in this repository is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it freely under the terms of the MIT License.
+
+## 🤖 Trained Models License
+
+The trained models included in the `trained_models/` folder were created using a dataset licensed under  
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Therefore, the models themselves are also distributed under the same license.  
+Please use them only for non-commercial purposes and provide appropriate attribution.
+
+If you plan to use the models commercially or redistribute them, please consult the original dataset license terms and seek permission.
+
+## 🖼️ Results License
+
+The generated images and other results provided in the `results/` folder  
+are considered derivative works based on the dataset licensed under  
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Therefore, these results are also distributed under the same license.  
+Please use and share them only for non-commercial purposes with appropriate attribution.
+
